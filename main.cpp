@@ -20,7 +20,7 @@ int main()
     box(8, 4);
     std::cout << "Box width = 13, height = 16 \n";
     box(13, 16);
-    std::cout << "\n";
+    std::cout << "\n------------------\n";
 
     // Checkerboard Task B
     std::cout << "Task B \n";
@@ -30,7 +30,7 @@ int main()
     checkerboard(8,3);
     std::cout << "Checkerboard width = 25, height = 14 \n";
     checkerboard(14,25);
-    std::cout << "\n";
+    std::cout << "\n------------------\n";
 
     // Cross Task C
     std::cout << "Task C \n";
@@ -40,7 +40,7 @@ int main()
     cross(4);
     std::cout << "Cross size = 10 \n";
     cross(10);
-    std::cout << "\n";
+    std::cout << "\n------------------\n";
 
     // Lower Triangle Task D
     std::cout << "Task D \n";
@@ -50,7 +50,7 @@ int main()
     lower(2);    
     std::cout << "Size = 10 \n";
     lower(10);
-    std::cout << "\n";
+    std::cout << "\n------------------\n";
 
     // Upper Triangle Task E
     std::cout << "Task E \n";
@@ -60,7 +60,7 @@ int main()
     upper(7);
     std::cout << "size = 3 \n";
     upper(3);
-    std::cout << "\n";
+    std::cout << "\n------------------\n";
 
     // Trapezoid Task F
     std::cout << "Task F \n";
@@ -70,7 +70,7 @@ int main()
     trapezoid(3,5);
     std::cout << "Trapezoid height = 7, width = 12 \n";
     trapezoid(7,12);
-    std::cout << "\n";
+    std::cout << "\n------------------\n";
 
     // Checkerboard 3x3 Task G
     std::cout << "Task G \n";
