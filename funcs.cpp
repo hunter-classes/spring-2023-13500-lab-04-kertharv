@@ -1,3 +1,12 @@
+/** 
+* Spring 2023 - Lab 04
+* Last name: Cataluna
+* First name: Kert Harvey
+* GitHub username: kertharv
+* Instructor: Genady Maryash
+* Recitation Instructor: Prof. Zamansky
+*/
+
 #include <iostream>
 #include <cmath>
 #include "funcs.h"
