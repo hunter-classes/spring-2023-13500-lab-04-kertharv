@@ -18,9 +18,9 @@ void box(int width, int height)
     {
         for(int x = 0; x < width; x++)
         {
-            std::cout<<"* ";
+            std::cout << "* ";
         }
-        std::cout<<"\n";
+        std::cout << "\n";
     }
 }
 
